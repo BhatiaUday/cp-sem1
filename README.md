@@ -45,8 +45,8 @@ layout:
 
 #### Code
 
-![](<.gitbook/assets/image (2).png>)
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Output
 
-![](<.gitbook/assets/image (3).png>)
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
