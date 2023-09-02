@@ -1,9 +1,5 @@
 ---
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -16,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Lab File
+# List
 
 ## Index
 
@@ -38,15 +34,3 @@ layout:
 6. Write a Python Program to make a list of all even numbers between 4 and 30
 7. Write a Python Program to add a key to a dictionary
 8. Write a Python Program to Multiply 2 Matrices
-
-## Code\&Output
-
-### 22 Aug 2023
-
-#### Code
-
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-#### Output
-
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
