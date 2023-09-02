@@ -1,3 +1,4 @@
+# Write a Python Program to add a key to a dictionary
 di={}
 while True:
     key=input("Enter Key: ")
