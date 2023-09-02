@@ -1,10 +1,24 @@
-# List of Programs done till now
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# List
 
 ## Index
 
 ### 22 Aug 2023
 
-1. Write a Python Program to print "I am learning Python"
+1. Write a Python Program to print "I am learning Python)
 2. Write a Python Program to add 2 numbers
 3. Write a Python Program to swap the values in 2 variables
 4. Write a Python Program to print the Fibonacci series
