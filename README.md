@@ -44,3 +44,4 @@ layout:
 5. Write a Python Program to concatinate 2 dictionary to make a new one
 6. Write a Python Program to join 2 dictionary and add the value for common keys
 7. Write a Python Program to sort a dict in ascending and descending order by value
+8. Write a Python Program to calculate the sum of numbers till the user enters 0
