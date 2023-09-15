@@ -39,8 +39,8 @@ layout:
 
 1. Write a Python Program to check for prime number
 2. Write a Python Program to print a dictionary in which the keys are numbers b/w (1,15) and values are their squares
-3. Write a Python Program to convert binary to base10
-4. Write a Python Program to convert base10 to binary
+3. Write a Python Program to convert binary to decimal
+4. Write a Python Program to convert decimal to binary
 5. Write a Python Program to concatinate 2 dictionary to make a new one
 6. Write a Python Program to join 2 dictionary and add the value for common keys
 7. Write a Python Program to sort a dict in ascending and descending order by value
