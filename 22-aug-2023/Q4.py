@@ -6,7 +6,7 @@ if a<=0:
     print("Invalid range Input!")
 else:
     for i in range(a):
-        print(x)
+        print(x,",",end=" ")
         n=x+y
         x=y
         y=n
