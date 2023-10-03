@@ -19,7 +19,7 @@
 7. Write a Python Program to add a key to a dictionary
 8. Write a Python Program to Multiply 2 Matrices
 
-### 5 Sept 2023
+### 5 Sep 2023
 
 1. Write a Python Program to check for prime number
 2. Write a Python Program to print a dictionary in which the keys are numbers b/w (1,15) and values are their squares
@@ -30,7 +30,7 @@
 7. Write a Python Program to sort a dict in ascending and descending order by value
 8. Write a Python Program to calculate the sum of numbers till the user enters 0
 
-### 12 Sept 2023
+### 12 Sep 2023
 
 1. Write a Python program to sum all the items in a list.
 2. Write a Python program to multiplies all the items in a list
@@ -100,3 +100,11 @@
     True
     Check if Olive present in said tuple of tuples!
     False
+
+### 3 Oct 2023 (Practicals)
+
+1. Write a Python program to get a list sorted in increasing order by the last element in each tuple from a given list of not empty tuples.
+    Sample list: [ (2,6),(1,3),(4,4),(2,2),(2,5),(2,1)]
+2. Write a Python program to find the 2nd largest number in a list.
+3. Write a Python program to sort a tuple by its float element.
+    Sample list: [('item1', '12.20'), ('item2', '15.10'), ('item3', '24.5')]
