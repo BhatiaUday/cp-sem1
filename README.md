@@ -100,11 +100,3 @@
     True
     Check if Olive present in said tuple of tuples!
     False
-
-### 3 Oct 2023 (Practicals)
-
-1. Write a Python program to get a list sorted in increasing order by the last element in each tuple from a given list of not empty tuples.
-    Sample list: [ (2,6),(1,3),(4,4),(2,2),(2,5),(2,1)]
-2. Write a Python program to find the 2nd largest number in a list.
-3. Write a Python program to sort a tuple by its float element.
-    Sample list: [('item1', '12.20'), ('item2', '15.10'), ('item3', '24.5')]
