@@ -1,0 +1,11 @@
+year,industry_name,variable,value,unit
+2011,"Agriculture",Activity,46134,COUNT
+2011,"Agriculture",employees,28838,COUNT
+2011,"Agriculture",Salaries,279,DOLLARS(millions)
+2011,"Agriculture",Sales,8187,DOLLARS(millions)
+2011,"Agriculture",Income,8866,DOLLARS(millions)
+2011,"Agriculture",Expenditure,7618,DOLLARS(millions)
+2011,"Agriculture",EBDITA,770,DOLLARS(millions)
+2011,"Agriculture",Assets,55700,DOLLARS(millions)
+2011,"Agriculture",Assets,32155,DOLLARS(millions)
+2011,"Agriculture",Activity,21777,COUNT
